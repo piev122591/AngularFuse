@@ -6,6 +6,7 @@ import {
     Input,
 } from "@angular/core";
 import { NavigationService } from "./service/navigation.service";
+import { OnInit } from "@angular/core";
 
 @Component({
     selector: "navbar",
